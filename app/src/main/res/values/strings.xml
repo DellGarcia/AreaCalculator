@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AreaCalculator</string>
+    <string name="edtAHint">A</string>
+    <string name="edtBHint">B</string>
+    <string name="edtCHint">C</string>
+    <string name="btnCalcText">Calcular</string>
+    <string name="txtTriangle">Triangulo:</string>
+    <string name="txtSquare">Quadrado:</string>
+    <string name="txtCircle">Círculo:</string>
+    <string name="Trapeze">Trapézio:</string>
+</resources>
